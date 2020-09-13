@@ -1,0 +1,2 @@
+C:\Users\Ngpoh\Desktop\c++\BMI Calculator\Debug\BMI Calculator.exe
+C:\Users\Ngpoh\Desktop\c++\BMI Calculator\Debug\BMI Calculator.pdb
